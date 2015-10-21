@@ -1,0 +1,40 @@
+[15:02:38] [Client thread/INFO]: Setting user: Player891
+[15:02:40] [Client thread/INFO]: LWJGL Version: 2.9.1
+[15:02:44] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Rune Craft
+[15:02:44] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RuneCraft/ in D:\modding\MC Projects\1.8\RuneCraft\out\production\RuneCraft
+[15:02:44] [Client thread/ERROR]: Couldn't initialize twitch stream
+[15:02:44] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[15:02:45] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[15:02:45] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[15:02:45] [Thread-9/INFO]: OpenAL initialized.
+[15:02:45] [Sound Library Loader/INFO]: Sound engine started
+[15:02:47] [Client thread/INFO]: Created: 512x512 textures-atlas
+[15:02:48] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Rune Craft
+[15:02:48] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: RuneCraft/ in D:\modding\MC Projects\1.8\RuneCraft\out\production\RuneCraft
+[15:02:48] [Client thread/INFO]: SoundSystem shutting down...
+[15:02:48] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[15:02:48] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[15:02:48] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[15:02:48] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[15:02:48] [Thread-11/INFO]: OpenAL initialized.
+[15:02:48] [Sound Library Loader/INFO]: Sound engine started
+[15:02:50] [Client thread/INFO]: Created: 512x512 textures-atlas
+[15:02:53] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[15:02:53] [Server thread/INFO]: Generating keypair
+[15:02:54] [Server thread/INFO]: Preparing start region for level 0
+[15:02:54] [Server thread/INFO]: Changing view distance to 12, from 10
+[15:02:57] [Server thread/INFO]: Player891[local:E:070dbd49] logged in with entity id 121 at (717.5383921609248, 4.0, -1227.2801865011008)
+[15:02:57] [Server thread/INFO]: Player891 joined the game
+[15:03:00] [Server thread/INFO]: Saving and pausing game...
+[15:03:00] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:03:00] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:03:00] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:03:01] [Server thread/INFO]: Stopping server
+[15:03:01] [Server thread/INFO]: Saving players
+[15:03:01] [Server thread/INFO]: Saving worlds
+[15:03:01] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[15:03:01] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[15:03:01] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[15:13:05] [Client thread/INFO]: Stopping!
+[15:13:05] [Client thread/INFO]: SoundSystem shutting down...
+[15:13:05] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
